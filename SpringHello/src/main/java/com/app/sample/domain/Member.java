@@ -25,7 +25,7 @@ public class Member implements Serializable
 // Added for git hub
    @Id
    @GeneratedValue
-   private Long id;
+   private Long id;n
 
    @NotNull
    @Size(min = 1, max = 25)
